@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 ---
 
-## Get in Touch
+## Get in Touch »»
 
 <div align="center">
 
