@@ -50,9 +50,9 @@
 
 <div align="center">
   <br>
-  <img src="LINK_DA_IMAGEM_DO_SISTEMA" width="500" alt="Hostel System Preview" />
+  <img src="img/Hostel_System_Preview.png" width="500" alt="Hostel System Preview" />
   &nbsp;&nbsp;
-  <img src="LINK_DA_IMAGEM_DA_MODELAGEM" width="500" alt="Database Diagram" />
+  <img src="img/Databas_Diagram.png width="500" alt="Database Diagram" />
 </div>
 
 ---
