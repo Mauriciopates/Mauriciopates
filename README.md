@@ -17,11 +17,10 @@
 
 <div align="center">
 
-1<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo"  />
       &nbsp;&nbsp;&nbsp;
-2<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo"  />
       &nbsp;&nbsp;&nbsp;
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo"  />
       &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo"  />
@@ -49,7 +48,7 @@
 <div align="center">
 
 [![Hostel Gestão](https://github-readme-stats.vercel.app/api/pin/?username=Mauriciopates&repo=hostel_gestao&theme=material-palenight&show_owner=true&hide_border=true)](https://github.com/Mauriciopates/hostel_gestao)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github&logoColor=white)](https://mauriciopates.github.io/CV_Html/)
+
 
 </div>
 
