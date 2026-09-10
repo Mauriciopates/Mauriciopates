@@ -43,13 +43,16 @@
 
 ---
 
-## Featured Projects
+### Featured Projects
+
+* **[Hostel Gestão](https://github.com/Mauriciopates/hostel_gestao)**  
+  *Hostel management system developed in Python.*
 
 <div align="center">
-
-[![Hostel Gestão](https://github-readme-stats.vercel.app/api/pin/?username=Mauriciopates&repo=hostel_gestao&theme=material-palenight&show_owner=true&hide_border=true)](https://github.com/Mauriciopates/hostel_gestao)
-
-
+  <br>
+  <img src="LINK_DA_IMAGEM_DO_SISTEMA" width="500" alt="Hostel System Preview" />
+  &nbsp;&nbsp;
+  <img src="LINK_DA_IMAGEM_DA_MODELAGEM" width="500" alt="Database Diagram" />
 </div>
 
 ---
@@ -60,6 +63,6 @@
 
 <a href="mailto:mauricio.patespt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 <a href="https://www.linkedin.com/in/mauricio-pates"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
-<a href="[(https://discord.com/users/mauriciopates)]"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" /></a>
+<a href="https://discord.com/users/mauriciopates"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" /></a>
 
 </div>
