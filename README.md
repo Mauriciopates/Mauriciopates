@@ -52,7 +52,7 @@
   <br>
   <img src="img/Hostel_System_Preview.png" width="500" alt="Hostel System Preview" />
   &nbsp;&nbsp;
-  <img src="img/Databas_Diagram.png width="500" alt="Database Diagram" />
+  <img src="img/Databas_Diagram.png" width="500" alt="Database Diagram" />
 </div>
 
 ---
