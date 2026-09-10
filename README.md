@@ -49,10 +49,20 @@
   *Hostel management system developed in Python.*
 
 <div align="center">
-  <br>
-  <img src="img/Hostel_System_Preview.png" width="500" alt="Hostel System Preview" />
-  &nbsp;&nbsp;
-  <img src="img/Databas_Diagram.png" width="500" alt="Database Diagram" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="img/Hostel_System_Preview.png" width="100%" alt="Hostel System Preview" />
+        <br>
+        <sub><b>Hostel System Preview</b></sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="img/Databas_Diagram.png" width="100%" alt="Database Diagram" />
+        <br>
+        <sub><b>Database Diagram</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
