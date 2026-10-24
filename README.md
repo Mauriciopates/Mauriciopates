@@ -4,7 +4,7 @@
 
 ### Software Development Student · Higher Technical Specialist in TPSI (EQF Level 5)
 
-![Status](https://img.shields.io/badge/Status-In%20Training-orange?style=for-the-badge)
+![TPSI](https://img.shields.io/badge/TPSI-In%20Progress-orange?style=for-the-badge)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-blue?style=for-the-badge&logo=github&logoColor=white)](https://mauriciopates.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-pates)
 
