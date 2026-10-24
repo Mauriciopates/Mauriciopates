@@ -14,10 +14,10 @@
 
 ## About Me
 
-- 🎓 Currently in training at **IEFP Porto** – *Técnico Especialista em Tecnologias e Programação de Sistemas de Informação (TPSI)*
-- 💼 10 years of experience in the pharmaceutical sector (sales analysis & loss prevention), now transitioning into tech
-- 🌱 Currently learning **ETL with SQL Server**
-- 📍 Porto, Portugal
+- Currently in training at **IEFP Porto** – *Técnico Especialista em Tecnologias e Programação de Sistemas de Informação (TPSI)*
+- 10 years of experience in the pharmaceutical sector (sales analysis & loss prevention), now transitioning into tech
+- Currently learning **ETL with SQL Server**
+- Porto, Portugal
 
 ---
 
@@ -40,6 +40,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL logo" />
       &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="SQL Server logo" />
+      &nbsp;&nbsp;&nbsp;
+<img src="img/ssms.png" height="50" alt="SQL Server Management Studio logo" />
       &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" />
       &nbsp;&nbsp;&nbsp;
